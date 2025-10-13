@@ -1,8 +1,4 @@
- Ola eu sou o Riam Teodoro!
-
-- 🔭 Eu estou procurando meu primeiro emprego na area
-- 🌱 Eu estou estudando Python e suas tecnologias
-  
+ 
 <h2 align="left">👋 Olá! Eu sou o Riam<br>Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de aprender algo novo.  <br>Atualmente estou focado em me tornar um desenvolvedor, aprimorando minhas habilidades em Python, Java, TypeScript e JavaScript.<br>Gosto de transformar ideias em código e encarar desafios que me façam evoluir como profissional e como pessoa.  <br>Busco colaborar em projetos e continuar crescendo na área de desenvolvimento.</h2>
 
 ###
