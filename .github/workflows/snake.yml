@@ -17,12 +17,11 @@ jobs:
         with:
           github_user_name: RiamTeodoro
           outputs: dist/snake.svg
-          theme: github-dark  # 👈 adiciona o tema escuro aqui
+          theme: github-dark
       - name: Publicar na branch "output"
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.G_
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
